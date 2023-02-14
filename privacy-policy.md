@@ -5,7 +5,7 @@ Apeiron takes your privacy seriously. To better protect your privacy we provide 
 
 ## Collection of Routine Information
 
-This app track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific users to this app. The information is tracked for routine administration and maintenance purposes.
+This app track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific user to this app. The information is tracked for routine administration and maintenance purposes.
 
 
 ## Cookies
